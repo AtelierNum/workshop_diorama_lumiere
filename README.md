@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+# workshop_diorama_lumiere_2020
 
-You can use the [editor on GitHub](https://github.com/AtelierNum/workshop_diorama_lumiere/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Ce dépot regroupe les projets réalisés par des étudiants en deuxième année d'option scénographie à l'école de design Nantes Atlantique dans le cadre d'un workshop dédié à la lumière et au maquettage. Les scénari lumière sont developpés à l'aide d'[arduino](https://www.arduino.cc/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+This repo stores the projects done by scenography students at l'École de design Nantes Atlantique during a workshop dedicated to modelling and light prototyping with [arduino](https://www.arduino.cc/).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## La forêt mystérieuse
 
-# Header 1
-## Header 2
-### Header 3
+**par Salomé Hybert, Jeanne Lartiguevielle et Anelise Robbe**
 
-- Bulleted
-- List
+<img src="01_LaForetMysterieuse_Groupe01/fiche_projet.png" width="640" height="840" />
+<img src="01_LaForetMysterieuse_Groupe01/Photos_Videos/05.jpg" width="320" height="480" />
+<img src="01_LaForetMysterieuse_Groupe01/Photos_Videos/01.jpg" width="320" height="480" />
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+## Ville oubliée
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**par Marie Boisseau, Servanne Bonnet et Sabine Peralta**
 
-### Jekyll Themes
+<img src="02_VilleOubliee_Groupe02/fiche_projet.png" width="640" height="840" />
+<img src="02_VilleOubliee_Groupe02/gif.gif" width="480" height="320" />
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AtelierNum/workshop_diorama_lumiere/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Stodoria 
+
+**par Marie Leonore Guidicelli, Mattéo Merand et Orlane Quitin**
+
+<img src="03_Stodoria_Groupe03/fiche_projet.png" width="640" height="840" />    
