@@ -55,11 +55,11 @@ This repo stores the projects done by scenography students at l'École de design
 
 **par Julianne Castaing, Inès de Saint-Aubin et Chloé Gilbert**        
 
-<img src="05_LeCarouselSD_Groupe05/Fiche_projet.png" width="640" height="840" /> 
-<img src="05_LeCarouselSD_Groupe05/Photos_Videos/IMG_4530.jpg" width="480" height="320" />
-<img src="05_LeCarouselSD_Groupe05/Photos_Videos/IMG_4538.jpg" width="480" height="320" />
+<img src="05_LeCarouseLSD_Groupe05/Fiche_projet.png" width="640" height="840" /> 
+<img src="05_LeCarouseLSD_Groupe05/Photos_Videos/IMG_4530.jpg" width="480" height="320" />
+<img src="05_LeCarouseLSD_Groupe05/Photos_Videos/IMG_4538.jpg" width="480" height="320" />
 
-<img src="05_LeCarouselSD_Groupe05/gif.gif" width="480" height="320" />
+<img src="05_LeCarouseLSD_Groupe05/gif.gif" width="480" height="320" />
 
 
 ## Vestiges
